@@ -1,0 +1,16 @@
+{
+  "holdings": {
+    "BTC": 0.0,
+    "ETH": 0.0,
+    "USDT": 0.0,
+    "USDC": 0.0,
+    "BNB": 0.0,
+    "SOL": 20.6,
+    "XRP": 0.0,
+    "ADA": 0.0,
+    "DOGE": 0.0,
+    "TRX": 0.0
+  },
+  "fx_rate": 12.1,
+  "total_invested": 73588.66
+}
